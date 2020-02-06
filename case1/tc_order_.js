@@ -16,4 +16,16 @@
    The itemQty array contains the quantity ordered of each item
    
 */
+var item = ["10582", "23015", "41807","10041" ];
+
+var itemDescription = ["1975 Green Bay Packers football (signed), item 10582","Tom Landry 1955 football card (unsigned), item 23015","1916 Army-Navy Game Framed Photo (signed), item 41807","Protective Card Sheets, item 10041"];
+
+var itemPrice = ["149.93","89.98","334.93","22.67"];
+
+var itemQty = ["1","1","1","4"];
+
+
+
+
+
 
